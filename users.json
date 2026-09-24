@@ -1,10 +1,10 @@
 {
   "users": {
-    "USER001": {
-      "password": "1234",
-      "name": "JayP",
+    "JAYP06": {
+      "password": "Sangeeta@890",
+      "name": "JayP" CD 16-09-26,
       "status": "Active",
-      "balance": 25000,
+      "balance": 1034.19,
       "message": "Welcome"
     },
     "USER002": {
