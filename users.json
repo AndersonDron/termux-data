@@ -1,5 +1,6 @@
 {
-  "JayPrakash": {
+  "users": {
+    "JayPrakash": {
       "password": "Sangeeta@890",
       "name": "JayP",
       "status": "Active",
