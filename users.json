@@ -4,15 +4,15 @@
       "password": "Sangeeta@890",
       "name": "JayP",
       "status": "Active",
-      "activeSince": 20260916,
-      "balance": 1034.19,
+      "activeSince": "2026-09-16",
+      "balance": 1034.19$,
       "message": "Welcome"
     },
     "USER002": {
       "password": "5678",
       "name": "Alex",
       "status": "Active",
-      "activeSince": 20260916,
+      "activeSince": "2026-09-16",
       "balance": 18000,
       "message": "Welcome"
     }
