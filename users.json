@@ -4,6 +4,7 @@
       "password": "Sangeeta@890",
       "name": "JayP",
       "status": "Active",
+      "activeSince": 20260916,
       "balance": 1034.19,
       "message": "Welcome"
     },
@@ -11,6 +12,7 @@
       "password": "5678",
       "name": "Alex",
       "status": "Active",
+      "activeSince": 20260916,
       "balance": 18000,
       "message": "Welcome"
     }
