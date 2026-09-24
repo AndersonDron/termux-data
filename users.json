@@ -1,0 +1,18 @@
+{
+  "users": {
+    "USER001": {
+      "password": "1234",
+      "name": "JayP",
+      "status": "Active",
+      "balance": 25000,
+      "message": "Welcome"
+    },
+    "USER002": {
+      "password": "5678",
+      "name": "Alex",
+      "status": "Active",
+      "balance": 18000,
+      "message": "Welcome"
+    }
+  }
+}
